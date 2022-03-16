@@ -1,0 +1,7 @@
+I:\horror\malwares\antiWupdate\bin\Debug\antiWupdate.exe.config
+I:\horror\malwares\antiWupdate\bin\Debug\antiWupdate.exe
+I:\horror\malwares\antiWupdate\bin\Debug\antiWupdate.pdb
+I:\horror\malwares\antiWupdate\obj\Debug\antiWupdate.csproj.AssemblyReference.cache
+I:\horror\malwares\antiWupdate\obj\Debug\antiWupdate.csproj.CoreCompileInputs.cache
+I:\horror\malwares\antiWupdate\obj\Debug\antiWupdate.exe
+I:\horror\malwares\antiWupdate\obj\Debug\antiWupdate.pdb
